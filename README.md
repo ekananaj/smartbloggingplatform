@@ -1,4 +1,4 @@
-# Smart Blogging Platform with AI-Driven Content Suggestions
+# Smart Blogging Platform with AI Content Suggestions
 
 This project is a smart blogging platform designed to assist writers in creating high-quality articles. With AI-driven content suggestions, SEO keyword recommendations, and readability enhancements, this platform empowers writers to optimize their content for better engagement and visibility.
 
